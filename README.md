@@ -1,13 +1,6 @@
 # kickstart.nvim
-
+kickstart.nvim config
 ## Installation
-
-### Install Neovim
-
-Kickstart.nvim targets *only* the latest
-['stable'](https://github.com/neovim/neovim/releases/tag/stable) and latest
-['nightly'](https://github.com/neovim/neovim/releases/tag/nightly) of Neovim.
-If you are experiencing issues, please make sure you have the latest versions.
 
 ### Install External Dependencies
 
@@ -82,10 +75,3 @@ git clone https://github.com/nvim-lua/kickstart.nvim.git "${env:LOCALAPPDATA}\nv
 
 </details>
 
-### Post Installation
-
-Start Neovim
-
-```sh
-nvim
-```
